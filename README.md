@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/x3alone/profile-readme/blob/main/res/waving.gif">, I'm Otman</h1>
-<h4 align="center">a̶ ̶f̶r̶e̶e̶l̶a̶n̶c̶e̶ ̶g̶r̶a̶p̶h̶i̶c̶ ̶d̶e̶s̶i̶g̶n̶e̶r̶ ̶a̶n̶d̶ ̶a̶l̶s̶o̶ ̶a̶ ̶s̶o̶f̶t̶w̶a̶r̶e̶ ̶e̶n̶g̶i̶n̶e̶e̶r̶i̶n̶g̶ ̶s̶t̶u̶d̶e̶n̶t̶ ,
+<h4 align="center">a̶ ̶f̶r̶e̶e̶l̶a̶n̶c̶e̶ ̶g̶r̶a̶p̶h̶i̶c̶ ̶d̶e̶s̶i̶g̶n̶e̶r̶ ̶a̶n̶d̶ ̶a̶l̶s̶o̶ ̶a̶ ̶s̶o̶f̶t̶w̶a̶r̶e̶ ̶e̶n̶g̶i̶n̶e̶e̶r̶i̶n̶g̶ ̶s̶t̶u̶d̶e̶n̶t̶ ,                            
                 LIKE ALL HUMAN BEINGS I CREATE THINGS TO SIMPLIFY, NOTHING special,</h4>
 </div>
 
