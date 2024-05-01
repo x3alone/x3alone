@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://x3alone.github.io/x3alone/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="[https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg](https://github.com/x3alone/profile-readme/blob/main/res/waving.gif)"
        alt="snake" /></a>
 </div>
 
