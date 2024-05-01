@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/x3alone/profile-readme/blob/main/res/waving.gif">, I'm Otman</h1>
-<h4 align="center"> cs2 player, vs code enjoyer, music & art creator ,<br>                            
+<h4 align="center"> cs2 player, vs code enjoyer, music & art creator<br>                            
 </div>
 
 <div align="center">
