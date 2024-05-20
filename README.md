@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://x3alone.github.io/x3alone/">
-  <img  src="https://github.com/x3alone/profile-readme/blob/main/res/png-gif-8.gif"
+  <img  src="https://github.com/x3alone/profile-readme/blob/main/res/VoaBStransp.gif"
        alt="snake" /></a>
 </div>
 
