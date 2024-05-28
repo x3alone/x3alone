@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://x3alone.github.io/x3alone/">
-  <img  src="https://github.com/x3alone/profile-readme/blob/main/res/44a8dabf0e4bf6e2616cd0f6d0ce5912.gif" 
+  <img  src="https://github.com/x3alone/profile-readme/blob/main/res/VoaBStransp.gif" 
        alt="snake" /></a>
   <h4 align="center"> catching bugs<br>  
 </div>
