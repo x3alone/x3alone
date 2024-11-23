@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">0></h1>
+<h1 align="center">o7</h1>
 <h4 align="center"> cs2 player, vs code enjoyer, music & art creator<br>                            
 </div>
 
